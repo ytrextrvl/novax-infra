@@ -1,0 +1,4 @@
+config:
+  default: true
+  MD036: false
+  MD058: false
