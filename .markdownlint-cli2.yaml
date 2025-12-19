@@ -1,10 +1,4 @@
 config:
   default: true
-  MD009: false   # trailing spaces
-  MD013: false   # line length (URLs)
-  MD022: false   # blanks around headings
-  MD026: false   # punctuation in headings
-  MD031: false   # blanks around fences
-  MD032: false   # blanks around lists
-  MD034: false   # bare URLs
-  MD040: false   # fenced code language
+  MD036: false
+  MD058: false
