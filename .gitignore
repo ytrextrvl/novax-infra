@@ -1,0 +1,16 @@
+# Security - prevent secret leaks
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+service-account*.json
+credentials*.json
+.secrets
+.credentials
+.env
+.env.*
+!.env.example
+terraform.tfstate*
+*.tfvars
